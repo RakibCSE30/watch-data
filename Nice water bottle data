@@ -1,0 +1,83 @@
+
+ [
+  {
+    "id": 1,
+    "name": "Classic Stainless Steel Water Bottle 500ml",
+    "capacity_ml": 500,
+    "material": "Stainless Steel",
+    "img_url": "https://example.com/images/water_bottle1.jpg",
+    "price_usd": 15.99
+  },
+  {
+    "id": 2,
+    "name": "Insulated Double-Wall Bottle 750ml",
+    "capacity_ml": 750,
+    "material": "Double-wall Insulated Steel",
+    "img_url": "https://example.com/images/water_bottle2.jpg",
+    "price_usd": 22.50
+  },
+  {
+    "id": 3,
+    "name": "Glass Flask with Silicone Sleeve 600ml",
+    "capacity_ml": 600,
+    "material": "Borosilicate Glass + Silicone",
+    "img_url": "https://example.com/images/water_bottle3.jpg",
+    "price_usd": 18.00
+  },
+  {
+    "id": 4,
+    "name": "Collapsible Silicone Bottle 1000ml",
+    "capacity_ml": 1000,
+    "material": "Food-grade Silicone",
+    "img_url": "https://example.com/images/water_bottle4.jpg",
+    "price_usd": 12.75
+  },
+  {
+    "id": 5,
+    "name": "Sport Sipper Plastic Bottle 650ml",
+    "capacity_ml": 650,
+    "material": "BPA-free Plastic",
+    "img_url": "https://example.com/images/water_bottle5.jpg",
+    "price_usd": 9.99
+  },
+  {
+    "id": 6,
+    "name": "Wide Mouth Stainless Bottle 1000ml",
+    "capacity_ml": 1000,
+    "material": "Stainless Steel",
+    "img_url": "https://example.com/images/water_bottle6.jpg",
+    "price_usd": 24.00
+  },
+  {
+    "id": 7,
+    "name": "Flip-Top Aluminum Bottle 550ml",
+    "capacity_ml": 550,
+    "material": "Aluminum",
+    "img_url": "https://example.com/images/water_bottle7.jpg",
+    "price_usd": 11.50
+  },
+  {
+    "id": 8,
+    "name": "Filter Bottle with Built-in Purifier 800ml",
+    "capacity_ml": 800,
+    "material": "Plastic + Filter Cartridge",
+    "img_url": "https://example.com/images/water_bottle8.jpg",
+    "price_usd": 29.90
+  },
+  {
+    "id": 9,
+    "name": "Vacuum Insulated Bottle 500ml",
+    "capacity_ml": 500,
+    "material": "Vacuum Insulated Steel",
+    "img_url": "https://example.com/images/water_bottle9.jpg",
+    "price_usd": 21.20
+  },
+  {
+    "id": 10,
+    "name": "Stainless Steel Bottle with Bamboo Cap 750ml",
+    "capacity_ml": 750,
+    "material": "Stainless Steel + Bamboo",
+    "img_url": "https://example.com/images/water_bottle10.jpg",
+    "price_usd": 19.50
+  }
+]
