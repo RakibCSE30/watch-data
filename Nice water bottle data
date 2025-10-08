@@ -1,83 +1,44 @@
-
- [
+[
   {
-    "id": 1,
-    "name": "Classic Stainless Steel Water Bottle 500ml",
-    "capacity_ml": 500,
-    "material": "Stainless Steel",
-    "img_url": "https://example.com/images/water_bottle1.jpg",
-    "price_usd": 15.99
+    "name": "Arjun Sharma",
+    "profile_pic": "https://i.ibb.co.com/JjJCfPRt/saif-hassan-203252229-16x9-0.jpg",
+    "country": "India",
+    "hand_role": "Left-hand-Bat",
+    "price": 1200000
   },
   {
-    "id": 2,
-    "name": "Insulated Double-Wall Bottle 750ml",
-    "capacity_ml": 750,
-    "material": "Double-wall Insulated Steel",
-    "img_url": "https://example.com/images/water_bottle2.jpg",
-    "price_usd": 22.50
+    "name": "Tom Williams",
+    "profile_pic": "https://randomuser.me/api/portraits/men/22.jpg",
+    "country": "England",
+    "hand_role": "Right-hand-Bowl",
+    "price": 950000
   },
   {
-    "id": 3,
-    "name": "Glass Flask with Silicone Sleeve 600ml",
-    "capacity_ml": 600,
-    "material": "Borosilicate Glass + Silicone",
-    "img_url": "https://example.com/images/water_bottle3.jpg",
-    "price_usd": 18.00
+    "name": "David Miller",
+    "profile_pic": "https://randomuser.me/api/portraits/men/33.jpg",
+    "country": "South Africa",
+    "hand_role": "Left-hand-Allrounder",
+    "price": 1500000
   },
   {
-    "id": 4,
-    "name": "Collapsible Silicone Bottle 1000ml",
-    "capacity_ml": 1000,
-    "material": "Food-grade Silicone",
-    "img_url": "https://example.com/images/water_bottle4.jpg",
-    "price_usd": 12.75
+    "name": "Imran Hossain",
+    "profile_pic": "https://randomuser.me/api/portraits/men/44.jpg",
+    "country": "Bangladesh",
+    "hand_role": "Right-hand-Bat",
+    "price": 800000
   },
   {
-    "id": 5,
-    "name": "Sport Sipper Plastic Bottle 650ml",
-    "capacity_ml": 650,
-    "material": "BPA-free Plastic",
-    "img_url": "https://example.com/images/water_bottle5.jpg",
-    "price_usd": 9.99
+    "name": "Chris Brown",
+    "profile_pic": "https://randomuser.me/api/portraits/men/55.jpg",
+    "country": "Australia",
+    "hand_role": "Right-hand-Allrounder",
+    "price": 1400000
   },
   {
-    "id": 6,
-    "name": "Wide Mouth Stainless Bottle 1000ml",
-    "capacity_ml": 1000,
-    "material": "Stainless Steel",
-    "img_url": "https://example.com/images/water_bottle6.jpg",
-    "price_usd": 24.00
-  },
-  {
-    "id": 7,
-    "name": "Flip-Top Aluminum Bottle 550ml",
-    "capacity_ml": 550,
-    "material": "Aluminum",
-    "img_url": "https://example.com/images/water_bottle7.jpg",
-    "price_usd": 11.50
-  },
-  {
-    "id": 8,
-    "name": "Filter Bottle with Built-in Purifier 800ml",
-    "capacity_ml": 800,
-    "material": "Plastic + Filter Cartridge",
-    "img_url": "https://example.com/images/water_bottle8.jpg",
-    "price_usd": 29.90
-  },
-  {
-    "id": 9,
-    "name": "Vacuum Insulated Bottle 500ml",
-    "capacity_ml": 500,
-    "material": "Vacuum Insulated Steel",
-    "img_url": "https://example.com/images/water_bottle9.jpg",
-    "price_usd": 21.20
-  },
-  {
-    "id": 10,
-    "name": "Stainless Steel Bottle with Bamboo Cap 750ml",
-    "capacity_ml": 750,
-    "material": "Stainless Steel + Bamboo",
-    "img_url": "https://example.com/images/water_bottle10.jpg",
-    "price_usd": 19.50
+    "name": "Shahid Afridi",
+    "profile_pic": "https://randomuser.me/api/portraits/men/66.jpg",
+    "country": "Pakistan",
+    "hand_role": "Left-hand-Bowl",
+    "price": 1000000
   }
 ]
