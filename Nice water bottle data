@@ -1,44 +1,138 @@
 [
   {
-    "name": "Arjun Sharma",
-    "profile_pic": "https://i.ibb.co.com/JjJCfPRt/saif-hassan-203252229-16x9-0.jpg",
-    "country": "India",
-    "hand_role": "Left-hand-Bat",
-    "price": 1200000
+    pic: "https://randomuser.me/api/portraits/men/21.jpg",
+    name: "Arif Hossain",
+    position: "President",
+    dept: "Computer Science",
+    batch: 2019,
+    contact: "017XXXXXXXX",
+    roomNo: "101"
   },
   {
-    "name": "Tom Williams",
-    "profile_pic": "https://randomuser.me/api/portraits/men/22.jpg",
-    "country": "England",
-    "hand_role": "Right-hand-Bowl",
-    "price": 950000
+    pic: "https://randomuser.me/api/portraits/women/22.jpg",
+    name: "Fatema Akter",
+    position: "Vice President",
+    dept: "Electrical Engineering",
+    batch: 2019,
+    contact: "018XXXXXXXX",
+    roomNo: "102"
   },
   {
-    "name": "David Miller",
-    "profile_pic": "https://randomuser.me/api/portraits/men/33.jpg",
-    "country": "South Africa",
-    "hand_role": "Left-hand-Allrounder",
-    "price": 1500000
+    pic: "https://randomuser.me/api/portraits/men/23.jpg",
+    name: "Karim Uddin",
+    position: "General Secretary",
+    dept: "Mechanical Engineering",
+    batch: 2020,
+    contact: "019XXXXXXXX",
+    roomNo: "103"
   },
   {
-    "name": "Imran Hossain",
-    "profile_pic": "https://randomuser.me/api/portraits/men/44.jpg",
-    "country": "Bangladesh",
-    "hand_role": "Right-hand-Bat",
-    "price": 800000
+    pic: "https://randomuser.me/api/portraits/women/24.jpg",
+    name: "Nabila Sultana",
+    position: "Treasurer",
+    dept: "Civil Engineering",
+    batch: 2020,
+    contact: "016XXXXXXXX",
+    roomNo: "104"
   },
   {
-    "name": "Chris Brown",
-    "profile_pic": "https://randomuser.me/api/portraits/men/55.jpg",
-    "country": "Australia",
-    "hand_role": "Right-hand-Allrounder",
-    "price": 1400000
+    pic: "https://randomuser.me/api/portraits/men/25.jpg",
+    name: "Shakil Ahmed",
+    position: "Cultural Secretary",
+    dept: "Computer Science",
+    batch: 2021,
+    contact: "017XXXXXXXX",
+    roomNo: "105"
   },
   {
-    "name": "Shahid Afridi",
-    "profile_pic": "https://randomuser.me/api/portraits/men/66.jpg",
-    "country": "Pakistan",
-    "hand_role": "Left-hand-Bowl",
-    "price": 1000000
+    pic: "https://randomuser.me/api/portraits/women/26.jpg",
+    name: "Maya Rahman",
+    position: "Sports Secretary",
+    dept: "Electronics Engineering",
+    batch: 2019,
+    contact: "018XXXXXXXX",
+    roomNo: "106"
+  },
+  {
+    pic: "https://randomuser.me/api/portraits/men/27.jpg",
+    name: "Imran Khan",
+    position: "Assistant Secretary",
+    dept: "Computer Science",
+    batch: 2021,
+    contact: "019XXXXXXXX",
+    roomNo: "107"
+  },
+  {
+    pic: "https://randomuser.me/api/portraits/women/28.jpg",
+    name: "Rina Islam",
+    position: "Member",
+    dept: "Mechanical Engineering",
+    batch: 2020,
+    contact: "016XXXXXXXX",
+    roomNo: "108"
+  },
+  {
+    pic: "https://randomuser.me/api/portraits/men/29.jpg",
+    name: "Tariq Mahmud",
+    position: "Member",
+    dept: "Civil Engineering",
+    batch: 2021,
+    contact: "017XXXXXXXX",
+    roomNo: "109"
+  },
+  {
+    pic: "https://randomuser.me/api/portraits/women/30.jpg",
+    name: "Sabrina Akter",
+    position: "Member",
+    dept: "Computer Science",
+    batch: 2019,
+    contact: "018XXXXXXXX",
+    roomNo: "110"
+  },
+  {
+    pic: "https://randomuser.me/api/portraits/men/31.jpg",
+    name: "Rashidul Islam",
+    position: "Member",
+    dept: "Electrical Engineering",
+    batch: 2020,
+    contact: "019XXXXXXXX",
+    roomNo: "111"
+  },
+  {
+    pic: "https://randomuser.me/api/portraits/women/32.jpg",
+    name: "Lina Chowdhury",
+    position: "Member",
+    dept: "Electronics Engineering",
+    batch: 2018,
+    contact: "016XXXXXXXX",
+    roomNo: "112"
+  },
+  {
+    pic: "https://randomuser.me/api/portraits/men/33.jpg",
+    name: "Sabbir Hossain",
+    position: "Member",
+    dept: "Mechanical Engineering",
+    batch: 2019,
+    contact: "017XXXXXXXX",
+    roomNo: "113"
+  },
+  {
+    pic: "https://randomuser.me/api/portraits/women/34.jpg",
+    name: "Tania Islam",
+    position: "Member",
+    dept: "Civil Engineering",
+    batch: 2020,
+    contact: "018XXXXXXXX",
+    roomNo: "114"
+  },
+  {
+    pic: "https://randomuser.me/api/portraits/men/35.jpg",
+    name: "Fahim Rahman",
+    position: "Member",
+    dept: "Computer Science",
+    batch: 2021,
+    contact: "019XXXXXXXX",
+    roomNo: "115"
   }
-]
+];
+ 
