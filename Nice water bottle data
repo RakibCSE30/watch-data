@@ -6,7 +6,7 @@
     "country": "Bangladesh",
     "category": "All-rounder",
     "batting_style": "Right-hand-bat",
-    "price": "$75000"
+    "price": "75000"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "country": "India",
     "category": "Batter",
     "batting_style": "Left-hand-bat",
-    "price": "$60000"
+    "price": "60000"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "country": "Pakistan",
     "category": "Bowler",
     "batting_style": "Right-hand-bat",
-    "price": "$55000"
+    "price": "55000"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "country": "Sri Lanka",
     "category": "All-rounder",
     "batting_style": "Right-hand-bat",
-    "price": "$70000"
+    "price": "70000"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "country": "Bangladesh",
     "category": "Batter",
     "batting_style": "Left-hand-bat",
-    "price": "$85000"
+    "price": "85000"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "country": "India",
     "category": "Bowler",
     "batting_style": "Right-hand-bat",
-    "price": "$50000"
+    "price": "50000"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "country": "Pakistan",
     "category": "All-rounder",
     "batting_style": "Right-hand-bat",
-    "price": "$95000"
+    "price": "95000"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "country": "Sri Lanka",
     "category": "Batter",
     "batting_style": "Left-hand-bat",
-    "price": "$45000"
+    "price": "45000"
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "country": "Afghanistan",
     "category": "Bowler",
     "batting_style": "Right-hand-bat",
-    "price": "$65000"
+    "price": "65000"
   },
   {
     "id": 10,
@@ -87,7 +87,7 @@
     "country": "Bangladesh",
     "category": "All-rounder",
     "batting_style": "Left-hand-bat",
-    "price": "$80000"
+    "price": "80000"
   },
   {
     "id": 11,
@@ -96,7 +96,7 @@
     "country": "Pakistan",
     "category": "Bowler",
     "batting_style": "Right-hand-bat",
-    "price": "$55000"
+    "price": "55000"
   },
   {
     "id": 12,
@@ -105,7 +105,7 @@
     "country": "India",
     "category": "Batter",
     "batting_style": "Left-hand-bat",
-    "price": "$40000"
+    "price": "40000"
   },
   {
     "id": 13,
@@ -114,7 +114,7 @@
     "country": "Bangladesh",
     "category": "Bowler",
     "batting_style": "Right-hand-bat",
-    "price": "$52000"
+    "price": "52000"
   },
   {
     "id": 14,
@@ -123,7 +123,7 @@
     "country": "Sri Lanka",
     "category": "All-rounder",
     "batting_style": "Left-hand-bat",
-    "price": "$77000"
+    "price": "77000"
   },
   {
     "id": 15,
@@ -132,6 +132,6 @@
     "country": "Bangladesh",
     "category": "Batter",
     "batting_style": "Right-hand-bat",
-    "price": "$90000"
+    "price": "90000"
   }
 ]
